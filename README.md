@@ -1,5 +1,5 @@
 [### Hi there 👋
-[![trophy](https://github.com/ryo-ma/github-profile-trophy?username=guuolta)
+[![trophy](https://github.com/ryo-ma/github-profile-trophy?username=guuolta)]
 <!--
 **hiro-oh/hiro-oh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
